@@ -1,3 +1,3 @@
-# CodeGladiators2020
+TechGig CodeGladiators 2020
 
-Solution for Code Gladiators 2020 in JAVA.
+This repository contains solution for Code Gladiators 2020 in JAVA.
